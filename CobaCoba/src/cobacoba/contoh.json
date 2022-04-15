@@ -1,0 +1,37 @@
+{
+     "lastName":"Smith",
+    "address":{
+        "streetAddress":"21 2nd Street",
+         "city":"New York",
+         "state":"NY",
+         "postalCode":10021
+    },
+     "age":25,
+     "akun":[
+            {
+            "username": "Angga",
+            "password": "angga123"
+        },
+        {
+            "username": "Boma",
+            "password": "boma123"
+        },
+        {
+            "username": "Fairuz",
+            "password": "fairuz123"
+        },
+        {
+            "username": "Luthfi",
+            "password": "luthfi123"
+        },
+        {
+            "username": "Rian",
+            "password": "rian123"
+        },
+        {
+            "username": "Tara",
+            "password": "tara123"
+        }
+     ],
+     "firstName":"John"
+}
